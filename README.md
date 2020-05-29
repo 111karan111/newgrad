@@ -5,4 +5,4 @@ This document will be regularly updated with 2021 new grad positions in Tech (So
 
 |               Company              |            Position                  |                 Notes   |
 |:--|:--|--|
-|VMware|[New Grad- Product Development- Software Engineer](https://careers.vmware.com/main/jobs/R2007152)|Knowledge in one or more of the programming languages: C, C++, Java, or Go programming.|
+|VMware|[New Grad- Product Development- Software Engineer](https://careers.vmware.com/main/jobs/R2007152)|Knowledge in one or more of the programming languages: C, C++, Java, or Go.|
