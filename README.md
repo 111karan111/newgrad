@@ -5,4 +5,4 @@ This document will be regularly updated with 2021 new grad positions in Tech (So
 
 |               Company              |            Position                  |                 Notes   |
 |:--|:--|--|
-|Qualcomm|[Software Engineering Internship](https://jobs.qualcomm.com/public/jobDetails.xhtml?requisitionId=1982304)|Strong coding abilities in C/C++. In study towards Bachelors (3.0 GPA or above), or Masters (3.5 GPA or above), in Computer Science, Electrical Engineering, or Computer Engineering.|
+|VMware|[New Grad- Product Development- Software Engineer](https://careers.vmware.com/main/jobs/R2007152)|Knowledge in one or more of the programming languages: C, C++, Java, or Go programming.|
