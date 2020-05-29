@@ -1,7 +1,7 @@
 # New Grad Positions - 2021
 This document will be regularly updated with 2021 new grad positions in Tech (Software Engineering, Product Management, Quant, Analytics etc.)
 
-If you are looking for internships, visit our internship repo [here](https://github.com/gcreddy42/internships/).
+If you are looking for **internships** instead, visit our internship repo [here](https://github.com/gcreddy42/internships/).
 
 **For updates on new additions, follow us on [Linkedin](https://www.linkedin.com/company/hiring20).**
 
